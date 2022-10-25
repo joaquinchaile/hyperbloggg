@@ -1,2 +1,2 @@
-# hyperblog
-Hyperblog para curso de git y github de Platzi
+# hyperbloggg
+Hyperblogg para curso de Git y Github de Platzi
